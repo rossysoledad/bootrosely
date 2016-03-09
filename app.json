@@ -1,0 +1,13 @@
+{
+  "name": "bootrosely",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
